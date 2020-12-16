@@ -70,5 +70,4 @@ pyzbar
 typing
 leancloud
 SensorsAnalyticsSDK
-pyrsistent==0.16.1
 
