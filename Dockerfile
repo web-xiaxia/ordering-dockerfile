@@ -12,6 +12,3 @@ RUN pip uninstall -y pycryptodome && pip install pycryptodome
 RUN pip install M2Crypto==0.36.0
 
 RUN pip install api2pdf
-
-# timezone
-RUN cp /usr/share/zoneinfo/Australia/Melbourne /etc/localtime
