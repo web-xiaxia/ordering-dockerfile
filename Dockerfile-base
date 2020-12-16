@@ -26,7 +26,7 @@ RUN apk add --update --no-cache \
     supervisor && \
     python2 -m ensurepip && \
     rm -r /usr/lib/python*/ensurepip && \
-    pip2 install --upgrade pip setuptools==44.0.0 && \
+    pip2 install --upgrade pip setuptools==44.0.0
 
 
 RUN echo "http://dl-cdn.alpinelinux.org/alpine/v3.11/main" >> /etc/apk/repositories
