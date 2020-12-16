@@ -24,7 +24,7 @@ RUN apk add --update --no-cache \
     bash \
     py-mysqldb \
     supervisor && \
-    python2 -m ensurepip
+    python2 -m ensurepip && \
     rm -r /usr/lib/python*/ensurepip && \
     pip2 install --upgrade pip setuptools==44.0.0 && \
 
