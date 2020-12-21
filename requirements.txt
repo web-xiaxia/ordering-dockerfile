@@ -72,4 +72,4 @@ leancloud==2.8.0
 SensorsAnalyticsSDK
 pyrsistent==0.16.1
 bidict==0.18.3
-pyOpenSSL==20.0.1
+pyOpenSSL==19.0.0
