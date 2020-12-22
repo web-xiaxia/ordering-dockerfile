@@ -73,3 +73,4 @@ SensorsAnalyticsSDK
 pyrsistent==0.16.1
 bidict==0.18.3
 pyOpenSSL==19.0.0
+pytest==4.6.11
