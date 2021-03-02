@@ -1,4 +1,6 @@
 Adyen
+rsa==4.0
+
 aliyun-python-sdk-core==2.8.5
 aliyun-python-sdk-dysmsapi==1.0.0
 apns-client==0.2.1
