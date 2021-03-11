@@ -1,1 +1,5 @@
-pandas
+FROM webxiaxia/ordering
+
+COPY requirements2.txt /tmp/requirements.txt
+
+RUN pip2 install -r /tmp/requirements.txt
