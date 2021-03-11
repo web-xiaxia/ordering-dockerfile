@@ -77,6 +77,5 @@ bidict==0.18.3
 pyOpenSSL==19.0.0
 pytest==4.6.11
 python-jwt==3.3.0
-pandas
 numpy==1.16.6
 
