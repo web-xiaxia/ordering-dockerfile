@@ -78,3 +78,4 @@ pyOpenSSL==19.0.0
 pytest==4.6.11
 python-jwt==3.3.0
 numpy==1.16.6
+pandas==0.24.2
